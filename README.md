@@ -1,2 +1,2 @@
 # Ensinando_DS_Avancado
- Código em que ensino técnicas avançadas de modelagem
+ Código que uso para ensinar técnicas avançadas de modelagem estatística com Machine Learning
